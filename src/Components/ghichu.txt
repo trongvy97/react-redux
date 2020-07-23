@@ -1,0 +1,13 @@
+App
+    Header 1  .
+    Products 2 .
+          Product 3 .
+          Product 
+          Product 
+    Message 4 . //hien thi tn mua hang thanh cong
+    Cart  5. //gio hang 
+          CartItem 6.    // TEN , GIA ,SO LUONG...
+          CartItem
+          CartItem
+          CartResult 7 // tong tien gio hang
+    Footer 8
